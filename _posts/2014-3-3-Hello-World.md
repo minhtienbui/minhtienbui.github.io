@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me!
+title: My Carrer Path!
 ---
 
 Tien has 10+ years of IT experience in banking out of which 7+ years are in Business Analyst, Data Warehouse, Big Data, Business intelligence, ETL, Data Modeling. He has handled both Transaction & Analysis systems such as Corebanking, Enterprise Datawarehouse in his tenure with a strong background on SDLC process. 
