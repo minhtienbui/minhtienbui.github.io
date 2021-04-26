@@ -1,3 +1,7 @@
+---
+layout: post
+title: Sách về Customer Data Platforms (CDP)
+---
 Bàn về xu hướng với chủ đề Customer Data Platforms (CDP) — đồng tác giả cuốn sách “Customer Data Platforms: Use People Data to Transform the Future of Marketing Engagement “ Chris O’Hara và Martin Kihn.
 
 O’Hara hiện là Global Product Marketing của Salesforce, và qua cuốn sách ông đã chia sẻ góc nhìn về việc áp dụng các phương pháp, nguyên tắc có thể nắm bắt, hợp nhất, chủ động dựa trên tổng hợp, phân tích hành trình số của khách hàng. Mục tiêu của CDP là giúp các doanh nghiệp cung cấp trải nghiệm được tối ưu, cá nhân hóa : đúng đối tượng, đúng thời điểm, đúng thông điệp nội dung cần truyền tải…”right person, right message, right time”.
