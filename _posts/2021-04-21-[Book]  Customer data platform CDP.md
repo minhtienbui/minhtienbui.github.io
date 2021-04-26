@@ -2,7 +2,7 @@
 layout: post
 title: Sách về Customer Data Platforms (CDP)
 ---
-Bàn về xu hướng với chủ đề Customer Data Platforms (CDP) — đồng tác giả cuốn sách “Customer Data Platforms: Use People Data to Transform the Future of Marketing Engagement “ Chris O’Hara và Martin Kihn.
+Bàn về xu hướng với chủ đề Customer Data Platforms (CDP) — đồng tác giả cuốn sách “Customer Data Platforms: Use People Data to Transform the Future of Marketing Engagement" Chris O’Hara và Martin Kihn.<br/>
 
 ![image](https://user-images.githubusercontent.com/52438010/116116318-390ff200-a6e5-11eb-85af-21798245270c.png)
 
