@@ -1,4 +1,6 @@
 Trong khi hầu hết các ngành bị đại dịch Covid-19 tàn phá thì thương mại điện tử, Fintech , chuyển đổi số … được thúc đẩy nhanh chóng trong thời khủng hoảng.
+![image](https://user-images.githubusercontent.com/52438010/120571949-569f4c80-c445-11eb-968f-0383497d3cd5.png)
+
 
 Hành vi của người tiêu dùng bán lẻ thay đổi với tốc độ chưa từng có khi những thói quen và hành vi mới được hình thành. Khả năng mua sắm 24/7, từ mọi lúc, mọi nơi, theo đa kênh tương tác, có nghĩa là người tiêu dùng ngày nay mong đợi nhiều hơn từ các nhà cung cấp sản phẩm dịch vụ — họ muốn trải nghiệm mua sắm một cách tiện lợi, nhanh chóng, có khả năng cá nhân hóa, phù hợp với các quy trình thanh toán đơn giản nhất có thể nhưng vẫn phải đảm bảo an toàn thông tin …
 
