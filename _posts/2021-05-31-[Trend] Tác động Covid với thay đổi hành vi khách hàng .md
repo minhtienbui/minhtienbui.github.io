@@ -29,8 +29,11 @@ Cả BANK và FINTECH đều đang chuẩn bị sẵn sàng thế mạnh của m
 <br/>
 
 Đại dịch Coronavirus đã thúc đẩy nhanh việc áp dụng công nghệ và chuyển đổi số nhanh hơn nhiều các năm trước với các kết quả khả quan trong vòng chưa đầy 12 tháng. Ngân hàng của tương lai có thể sẽ là vô hình (Ngân hàng ảo hóa, Ngân hàng số, Ngân hàng on Clound ...) , các dịch vụ sẽ được tùy chỉnh theo micromet, AI và học máy sẽ là một chuẩn mực hơn là một tiện ích nâng cao bổ sung. Video KYC, các sản phẩm tiết kiệm và cho vay kỹ thuật số hoàn toàn và sự trỗi dậy của fintech, tất cả đều hướng tới một thế giới thống trị về công nghệ, ngay cả trong lĩnh vực ngân hàng. Không có gì ngạc nhiên khi ngành kinh doanh thanh toán và dịch vụ giá trị gia tăng đang chứng kiến một lượng lớn các công ty thông minh, sáng tạo, nhờ vào giao diện UPI của NPCI thuộc sở hữu của chính phủ.
+<br/>
+![image](https://user-images.githubusercontent.com/52438010/120913739-83f92e00-c6c3-11eb-9347-c15abce07dd7.png)
+<br/>
 
-cuộc khủng hoảng COVID-19 đã làm cho máy học và khoa học dữ liệu quan trọng hơn cho tương lai. Hơn một phần ba báo cáo sự gia tăng về số lượng các trường hợp sử dụng theo kế hoạch của họ, với các lĩnh vực kinh doanh bị ảnh hưởng trực tiếp bởi đại dịch, chẳng hạn như sự tham gia của khách hàng, dự kiến sẽ tăng trưởng nhiều nhất. Một giải thích cho điều này là máy học và khoa học dữ liệu là một phần của quá trình số hóa rộng rãi hơn các dịch vụ ngân hàng, vốn đã được tăng tốc nhờ COVID-19. Làn sóng đầu tiên của đại dịch đã kích hoạt ngân hàng trực tuyến và di động tăng từ 10 đến 20% trên khắp châu Âu. Xu hướng ngày càng gia tăng các dịch vụ ngân hàng kỹ thuật số dường như vẫn tiếp tục trong suốt năm 2020.
+Cuộc khủng hoảng COVID-19 đã làm cho máy học và khoa học dữ liệu quan trọng hơn cho tương lai. Hơn một phần ba báo cáo sự gia tăng về số lượng các trường hợp sử dụng theo kế hoạch của họ, với các lĩnh vực kinh doanh bị ảnh hưởng trực tiếp bởi đại dịch, chẳng hạn như sự tham gia của khách hàng, dự kiến sẽ tăng trưởng nhiều nhất. Một giải thích cho điều này là máy học và khoa học dữ liệu là một phần của quá trình số hóa rộng rãi hơn các dịch vụ ngân hàng, vốn đã được tăng tốc nhờ COVID-19. Làn sóng đầu tiên của đại dịch đã kích hoạt ngân hàng trực tuyến và di động tăng từ 10 đến 20% trên khắp châu Âu. Xu hướng ngày càng gia tăng các dịch vụ ngân hàng kỹ thuật số dường như vẫn tiếp tục trong suốt năm 2020.
 
 <br/>
 ![image](https://user-images.githubusercontent.com/52438010/120913608-6bd4df00-c6c2-11eb-97b3-5c12d40a1f60.png)
