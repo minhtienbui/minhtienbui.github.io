@@ -15,7 +15,18 @@ Người tiêu dùng sẽ tiếp tục yêu cầu sự tiện lợi và cá nhâ
 ![image](https://user-images.githubusercontent.com/52438010/120572019-79316580-c445-11eb-8dbf-6702b109c242.png)
 
 <br/>
-Trong lĩnh vực Fintech, mô hình Payflex với quy trình đơn giản khách mua hàng chỉ ứng trước 25% tổng số tiền. Sau đó, hàng sẽ được giao cho người tiêu dùng, 3 lần thanh toán sau chỉ cần được thực hiện hai tuần một lần trong sáu tuần, cho đến khi việc thanh toán hoàn tất.
+Câu hỏi đặt ra về việc liệu các ngân hàng trong tương lai sẽ trở thành một ngân hàng như mô hình hiện tại hay thị phần kinh doanh của ngân hàng sẽ bị tấn công bởi các công ty công nghệ tài chính FINTECH như WhatsApp, Google hay Apple! Xét cho cùng, ngân hàng ngày nay hướng đến công nghệ hơn là kinh doanh dòng tiền. Sự thật là, ngay cả vế sau cũng được quản lý - bằng công nghệ.
+
+<br/>
+
+Cả BANK và FINTECH đều đang chuẩn bị sẵn sàng thế mạnh của mình và nỗ lực thay đổi cải thiện các sản phẩm dịch vụ trong hệ sinh thái số. Các ngân hàng đang áp dụng công nghệ mới  với một tốc độ chưa từng có và các công ty công nghệ đã có những bước đột phá trong lĩnh vực thanh toán. Điều đó cung cấp nền tảng dữ liệu khách hàng (Customer Data Platform - CDP) để bán chéo các sản phẩm ngân hàng, tài chính, bảo hiểm và các dịch vụ liên quan khác cho khách hàng trong tương lai - bất cứ thứ gì từ các khoản vay cá nhân và ô tô đến các sản phẩm bảo hiểm và hưu trí. Liệu các ngân hàng sẽ xoay trục để giống với các công ty công nghệ hay các công ty công nghệ sẽ giống với ngân hàng là một cuộc tranh cãi mang tính biểu tượng đã diễn ra. Cho đến khi các mô hình lắng xuống, sự xáo trộn trong ngành là điều dễ thấy.
+
+<br/>
+
+Đại dịch Coronavirus đã thúc đẩy nhanh việc áp dụng công nghệ và chuyển đổi số nhanh hơn nhiều các năm trước với các kết quả khả quan trong vòng chưa đầy 12 tháng. Ngân hàng của tương lai có thể sẽ là vô hình (Ngân hàng ảo hóa, Ngân hàng số, Ngân hàng on Clound ...) , các dịch vụ sẽ được tùy chỉnh theo micromet, AI và học máy sẽ là một chuẩn mực hơn là một tiện ích nâng cao bổ sung. Video KYC, các sản phẩm tiết kiệm và cho vay kỹ thuật số hoàn toàn và sự trỗi dậy của fintech, tất cả đều hướng tới một thế giới thống trị về công nghệ, ngay cả trong lĩnh vực ngân hàng. Không có gì ngạc nhiên khi ngành kinh doanh thanh toán và dịch vụ giá trị gia tăng đang chứng kiến một lượng lớn các công ty thông minh, sáng tạo, nhờ vào giao diện UPI của NPCI thuộc sở hữu của chính phủ.
+
+<br/>
+Trong xu hướng Fintech, nổi bật lên là các công ty Payflex, PayMate và Zeta ... đưa ra mô hình kinh doanh mới thuộc lĩnh vực thanh toán và VAS. Cụ thể về Payflex với quy trình đơn giản khách mua hàng chỉ ứng trước 25% tổng số tiền. Sau đó, hàng sẽ được giao cho người tiêu dùng, 3 lần thanh toán sau chỉ cần được thực hiện hai tuần một lần trong sáu tuần, cho đến khi việc thanh toán hoàn tất.
 Giải pháp khá đơn giản cho phép khách hàng biết chính xác cách thức và thời điểm họ sẽ thực hiện thanh toán, và miễn là người dùng thực hiện các khoản thanh toán theo lịch trình của mình đúng hạn, họ sẽ không phải trả thêm bất kỳ tiền lãi hoặc phí cho các giao dịch chi tiêu thực hiện ….
 <br/>
 
