@@ -8,13 +8,13 @@ Về xu hướng công nghệ data platform hiện nay, đã trải qua khá nhi
 <br/>
 ![image](https://user-images.githubusercontent.com/52438010/125012157-eadb7f80-e093-11eb-8b43-04171c91b5b1.png)
 <br/>
-Data Warehouse
+##Data Warehouse
 <br/>
 Xu hướng 20–30 năm trước đây khi dữ liệu được thu thập và tập trung hoá vào phân vùng và sử dụng các mô hình dữ liệu khá độ sộ : Star-Schema hoặc Snow Flake để tổ chức và phân tích
 Data warehouse là kho dữ liệu tập trung được thu thập, làm sạch, biến đổi và chuẩn hoá (ETL) từ các hệ thống nguồn riêng biệt được thiết kế, tổ chức tích hợp dữ liệu dưới dạng 3NF normalization model để phục vụ việc lưu trữ dữ liệu lịch sử lâu dài. Dữ liệu Data warehouse sẽ sử dụng cho các ứng dụng downstream, ứng dụng online và là đầu vào các Data mart được tạo theo yêu cầu phục vụ báo cáo, phân tích của từng phòng ban…
 Data mart là phiên bản thu gọn của kho dữ liệu và được thiết kế tổ chức mô hình dữ liệu đa chiều Multiple Dimension Model để phục vụ việc báo cáo phân tích cho một bộ phận, đơn vị hoặc nhóm người dùng cụ thể trong tổ chức.
 <br/>
-Data Lake
+##Data Lake
 <br/>
 Bước tiếp theo với sự gia tăng của nguồn dữ liệu Big data đặc biệt dữ liệu phi cấu trúc kể đến như Văn bản , mail, video, âm thanh , …
 <br/>
@@ -28,7 +28,7 @@ Collect everything : Tất cả dữ liệu từ hệ thống nguồn đều đ�
 Dive in anywhere : Data Lake cho phép người dùng trên các đơn vị kinh doanh khác nhau tinh chỉnh, khám phá và làm giàu thêm dữ liệu liên quan các mảng nghiệp vụ đặc thù của từng đơn vị.
 Flexible access : Data Lake cho phép đa luồng truy cập dữ liệu theo các pattern sẵn có trên hạ tầng dùng chung: Batch (theo lô), tương tác, online, search, in-memory and hỗ trợ các engine xử lý khác…
 <br/>
-Data Mesh
+##Data Mesh
 <br/>
 Data Mesh là thế hệ tiếp theo của Data Lake. Mang tính tổ chức theo kiểu Microservice và hướng domain nghiệp vụ. Các domain nghiệp vụ này mang tính độc lập với nhau và đủ nhỏ để các đơn vị phòng ban có thể self service đảm bảo thời gian Time-to-market nhanh nhất có thể trong bối cảnh cạnh tranh ngày càng khắc nhiệt như ngày nay.
 <br/>
@@ -37,14 +37,14 @@ Data Mesh là thế hệ tiếp theo của Data Lake. Mang tính tổ chức the
 Hiện tại “DATA MESH” đang là xu hương khá mới và hot khi doanh nghiệp quan tâm xây dựng Data Plaform. Bài viết xin tập trung sâu hơn vào keyword Data Messh và một số khái niệm liên quan.
 Trong thời đại mô hình kinh doanh tự phục vụ Self service , gần như mọi công ty đều coi mình là định hướng bởi dữ liệu, nhưng không phải công ty nào cũng xử lý kiến trúc dữ liệu của họ với mức độ dân chủ hóa và khả năng mở rộng tuỳ theo yêu cầu và hành vi của khách hàng.
 <br/>
-Data Driven : Phương thức kinh doanh dựa trên cơ sở thông tin dữ liệu đã thu thập và phân tích được. Tất cả các quyết định kinh doanh đều dựa trên dữ liệu đã phân tích, dự báo và dự đoán.
+**Data Driven** : Phương thức kinh doanh dựa trên cơ sở thông tin dữ liệu đã thu thập và phân tích được. Tất cả các quyết định kinh doanh đều dựa trên dữ liệu đã phân tích, dự báo và dự đoán.
 <br/>
-Domain Driven : Hướng nghiệp vụ là cách tiếp cận trong việc thiết kế và phát triển phần mềm với đặc thù logic nghiệp vụ phức tạp như việc triển khai Data Platform, Corebanking cho banking — các dự án này
+**Domain Driven** : Hướng nghiệp vụ là cách tiếp cận trong việc thiết kế và phát triển phần mềm với đặc thù logic nghiệp vụ phức tạp như việc triển khai Data Platform, Corebanking cho banking — các dự án này
 Yêu cầu về quy trình nghiệp vụ, logic và quy tắc khá phức tạp (Loan, Deposit, Card, Treasury, …. )
 Cần mô hình hoá các nghiệp vụ (Logical ) chuyển vào trong code, thiết kế mức vật lý sản phẩm phần mềm (Physical)
 Cần có phối hợp, cộng tác giữa nhóm kỹ thuật và nhóm nghiệp vụ (Domain Expert — đầu mối về mảng nghiệp vụ cụ thể)
 <br/>
-Data Mesh là gì? 
+**Data Mesh là gì**
 <br/>
 Giống như cách mà các ứng dụng phần mềm hiện nay chuyển từ kiến trúc nguyên khối ( Monolithic ) sang kiến trúc Microservices. Hiểu đơn giản Data mesh là phiên bản nền tảng dữ liệu (data platform) xây dựng theo kiến trúc microservices hướng domain nghiệp vụ, được phân tán , đủ nhỏ cho service/product/usecase để có thể chạy, vận hành độc lập không thụ thuộc lẫn nhau. Mục đích chính là dân chủ hoá quyền sở hữu, tiện lợi cho các phòng ban khối có thể dễ dàng tự khai thác quản trị và bổ sung dự liệu bất cứ khi nào họ cần.
 <br/>
