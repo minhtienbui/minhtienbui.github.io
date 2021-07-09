@@ -11,8 +11,10 @@ Về xu hướng công nghệ data platform hiện nay, đã trải qua khá nhi
 ## Data Warehouse - Kho dữ liệu
 <br/>
 Xu hướng 20–30 năm trước đây khi dữ liệu được thu thập và tập trung hoá vào phân vùng và sử dụng các mô hình dữ liệu khá độ sộ : Star-Schema hoặc Snow Flake để tổ chức và phân tích
-Data warehouse là kho dữ liệu tập trung được thu thập, làm sạch, biến đổi và chuẩn hoá (ETL) từ các hệ thống nguồn riêng biệt được thiết kế, tổ chức tích hợp dữ liệu dưới dạng 3NF normalization model để phục vụ việc lưu trữ dữ liệu lịch sử lâu dài. Dữ liệu Data warehouse sẽ sử dụng cho các ứng dụng downstream, ứng dụng online và là đầu vào các Data mart được tạo theo yêu cầu phục vụ báo cáo, phân tích của từng phòng ban…
-Data mart là phiên bản thu gọn của kho dữ liệu và được thiết kế tổ chức mô hình dữ liệu đa chiều Multiple Dimension Model để phục vụ việc báo cáo phân tích cho một bộ phận, đơn vị hoặc nhóm người dùng cụ thể trong tổ chức.
+<br/>
+***Data warehouse*** là kho dữ liệu tập trung được thu thập, làm sạch, biến đổi và chuẩn hoá (ETL) từ các hệ thống nguồn riêng biệt được thiết kế, tổ chức tích hợp dữ liệu dưới dạng 3NF normalization model để phục vụ việc lưu trữ dữ liệu lịch sử lâu dài. Dữ liệu Data warehouse sẽ sử dụng cho các ứng dụng downstream, ứng dụng online và là đầu vào các Data mart được tạo theo yêu cầu phục vụ báo cáo, phân tích của từng phòng ban…
+<br/>
+***Data mart*** là phiên bản thu gọn của kho dữ liệu và được thiết kế tổ chức mô hình dữ liệu đa chiều Multiple Dimension Model để phục vụ việc báo cáo phân tích cho một bộ phận, đơn vị hoặc nhóm người dùng cụ thể trong tổ chức.
 <br/>
 ## Data Lake - Hồ dữ liệu
 <br/>
@@ -28,7 +30,9 @@ Trong khi Data lake — hồ dữ liệu giống một vùng nước ở trạng
 Một vài đặc tính quan trọng Data Lake
 <br/>
 ***Collect everything*** : Tất cả dữ liệu từ hệ thống nguồn đều được load lên Data Lake. Không loại bỏ dữ liệu nào cả.
+<br/>
 ***Dive in anywhere*** : Data Lake cho phép người dùng trên các đơn vị kinh doanh khác nhau tinh chỉnh, khám phá và làm giàu thêm dữ liệu liên quan các mảng nghiệp vụ đặc thù của từng đơn vị.
+<br/>
 ***Flexible access*** : Data Lake cho phép đa luồng truy cập dữ liệu theo các pattern sẵn có trên hạ tầng dùng chung: Batch (theo lô), tương tác, online, search, in-memory and hỗ trợ các engine xử lý khác…
 <br/>
 ## Data Mesh
@@ -54,7 +58,7 @@ Cần có phối hợp, cộng tác giữa nhóm kỹ thuật và nhóm nghiệp
 ![image](https://user-images.githubusercontent.com/52438010/125012230-11011f80-e094-11eb-9d79-c2763275f279.png)
 <br/>
 
-Quyền sở hữu đối với 2 loại dữ liệu thô raw data và dữ liệu đã chuyển đổi (Transformed) theo 2 cách tập trung(Central) hoặc phi tập trung (Decentralized). Điều này tạo ra bốn góc phần tư với các giải pháp khác nhau.
+***Quyền sở hữu đối với 2 loại dữ liệu thô raw data và dữ liệu đã chuyển đổi (Transformed) theo 2 cách tập trung(Central) hoặc phi tập trung (Decentralized). Điều này tạo ra bốn góc phần tư với các giải pháp khác nhau.***
 <br/>
 ![image](https://user-images.githubusercontent.com/52438010/125012248-15c5d380-e094-11eb-9232-f03c460c9a47.png)
 
