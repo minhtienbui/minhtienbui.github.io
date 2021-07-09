@@ -1,6 +1,6 @@
-***"Banking has to work when and where you need it. The best advice and the best service in financial services happens in real time and is based on customer behavior, using principles of Big Data, mobility, and gamification.” by Brett King***
+## "Banking has to work when and where you need it. The best advice and the best service in financial services happens in real time and is based on customer behavior, using principles of Big Data, mobility, and gamification.” by Brett King
 <br/>
-Tạm hiểu là ngân hàng cần phải cung cấp khác hàng 24/7 real time bất kỳ khi nào khách hàng cần. Dịch vụ tài chính tốt nhất là các sản phẩm/dịch vụ diễn ra theo thời gian thực và dựa trên hành vi của khách hàng, sử dụng nền tảng phân tích của Big Data -Dữ liệu lớn, tính di động và việc nhập vai cá nhân hoá tới từng đối tượng khác hàng.” :smile: 
+***Tạm hiểu là ngân hàng cần phải cung cấp khác hàng 24/7 real time bất kỳ khi nào khách hàng cần. Dịch vụ tài chính tốt nhất là các sản phẩm/dịch vụ diễn ra theo thời gian thực và dựa trên hành vi của khách hàng, sử dụng nền tảng phân tích của Big Data -Dữ liệu lớn, tính di động và việc nhập vai cá nhân hoá tới từng đối tượng khác hàng.”*** :smile: 
 <br/>
 ![image](https://user-images.githubusercontent.com/52438010/125012132-deefbd80-e093-11eb-8ce9-06b6a4e1aaf1.png)
 <br/>
