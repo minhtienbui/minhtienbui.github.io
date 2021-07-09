@@ -28,7 +28,7 @@ Collect everything : Tất cả dữ liệu từ hệ thống nguồn đều đ�
 Dive in anywhere : Data Lake cho phép người dùng trên các đơn vị kinh doanh khác nhau tinh chỉnh, khám phá và làm giàu thêm dữ liệu liên quan các mảng nghiệp vụ đặc thù của từng đơn vị.
 Flexible access : Data Lake cho phép đa luồng truy cập dữ liệu theo các pattern sẵn có trên hạ tầng dùng chung: Batch (theo lô), tương tác, online, search, in-memory and hỗ trợ các engine xử lý khác…
 <br/>
-## Data Mesh
+## Data Mesh 
 <br/>
 Data Mesh là thế hệ tiếp theo của Data Lake. Mang tính tổ chức theo kiểu Microservice và hướng domain nghiệp vụ. Các domain nghiệp vụ này mang tính độc lập với nhau và đủ nhỏ để các đơn vị phòng ban có thể self service đảm bảo thời gian Time-to-market nhanh nhất có thể trong bối cảnh cạnh tranh ngày càng khắc nhiệt như ngày nay.
 <br/>
