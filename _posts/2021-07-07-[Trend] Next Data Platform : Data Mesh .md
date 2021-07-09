@@ -35,13 +35,18 @@ Data Mesh là thế hệ tiếp theo của Data Lake. Mang tính tổ chức the
 ![image](https://user-images.githubusercontent.com/52438010/125012204-05adf400-e094-11eb-86ea-a96a4eb44766.png)
 <br/>
 Hiện tại “DATA MESH” đang là xu hương khá mới và hot khi doanh nghiệp quan tâm xây dựng Data Plaform. Bài viết xin tập trung sâu hơn vào keyword Data Messh và một số khái niệm liên quan.
-Trong thời đại mô hình kinh doanh tự phục vụ Self service , gần như mọi công ty đều coi mình là định hướng bởi dữ liệu, nhưng không phải công ty nào cũng xử lý kiến ​​trúc dữ liệu của họ với mức độ dân chủ hóa và khả năng mở rộng tuỳ theo yêu cầu và hành vi của khách hàng.
+Trong thời đại mô hình kinh doanh tự phục vụ Self service , gần như mọi công ty đều coi mình là định hướng bởi dữ liệu, nhưng không phải công ty nào cũng xử lý kiến trúc dữ liệu của họ với mức độ dân chủ hóa và khả năng mở rộng tuỳ theo yêu cầu và hành vi của khách hàng.
+<br/>
 Data Driven : Phương thức kinh doanh dựa trên cơ sở thông tin dữ liệu đã thu thập và phân tích được. Tất cả các quyết định kinh doanh đều dựa trên dữ liệu đã phân tích, dự báo và dự đoán.
+<br/>
 Domain Driven : Hướng nghiệp vụ là cách tiếp cận trong việc thiết kế và phát triển phần mềm với đặc thù logic nghiệp vụ phức tạp như việc triển khai Data Platform, Corebanking cho banking — các dự án này
 Yêu cầu về quy trình nghiệp vụ, logic và quy tắc khá phức tạp (Loan, Deposit, Card, Treasury, …. )
 Cần mô hình hoá các nghiệp vụ (Logical ) chuyển vào trong code, thiết kế mức vật lý sản phẩm phần mềm (Physical)
 Cần có phối hợp, cộng tác giữa nhóm kỹ thuật và nhóm nghiệp vụ (Domain Expert — đầu mối về mảng nghiệp vụ cụ thể)
-Data Mesh là gì? Giống như cách mà các ứng dụng phần mềm hiện nay chuyển từ kiến trúc nguyên khối ( Monolithic ) sang kiến trúc Microservices. Hiểu đơn giản Data mesh là phiên bản nền tảng dữ liệu (data platform) xây dựng theo kiến trúc microservices hướng domain nghiệp vụ, được phân tán , đủ nhỏ cho service/product/usecase để có thể chạy, vận hành độc lập không thụ thuộc lẫn nhau. Mục đích chính là dân chủ hoá quyền sở hữu, tiện lợi cho các phòng ban khối có thể dễ dàng tự khai thác quản trị và bổ sung dự liệu bất cứ khi nào họ cần.
+<br/>
+Data Mesh là gì? 
+<br/>
+Giống như cách mà các ứng dụng phần mềm hiện nay chuyển từ kiến trúc nguyên khối ( Monolithic ) sang kiến trúc Microservices. Hiểu đơn giản Data mesh là phiên bản nền tảng dữ liệu (data platform) xây dựng theo kiến trúc microservices hướng domain nghiệp vụ, được phân tán , đủ nhỏ cho service/product/usecase để có thể chạy, vận hành độc lập không thụ thuộc lẫn nhau. Mục đích chính là dân chủ hoá quyền sở hữu, tiện lợi cho các phòng ban khối có thể dễ dàng tự khai thác quản trị và bổ sung dự liệu bất cứ khi nào họ cần.
 <br/>
 ![image](https://user-images.githubusercontent.com/52438010/125012230-11011f80-e094-11eb-9d79-c2763275f279.png)
 <br/>
