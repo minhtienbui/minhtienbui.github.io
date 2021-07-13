@@ -16,7 +16,7 @@ A master degree holder in MBA and degree holder in Computer Science, he is equip
 
 ### More Information
 
-Linkindle : linkedin.com/in/tienbm
+Linkindle : https://linkedin.com/in/tienbm
 
 ### Contact me
 
