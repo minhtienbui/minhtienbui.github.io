@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin: ttps://linkedin.com/in/tienbm
+  linkedin: https://linkedin.com/in/tienbm
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: https://twitter.com/tienbm
