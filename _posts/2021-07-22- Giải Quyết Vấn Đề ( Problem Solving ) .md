@@ -1,6 +1,6 @@
 ## "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.” by Einstein
 <br/>
-***Tạm hiểu là nếu bạn có một giờ để giải quyết một vấn đề, bạn nên dành 55 phút để suy nghĩ về vấn đề đó và 5 phút để suy nghĩ về các giải pháp*** :smile: 
+*** Tạm hiểu là nếu bạn có một giờ để giải quyết một vấn đề, bạn nên dành 55 phút để suy nghĩ về vấn đề đó và 5 phút để suy nghĩ về các giải pháp *** :smile: 
 <br/>
 Quan điểm Einstein đưa ra rất quan trọng: sự chuẩn bị có giá trị rất lớn đối với việc giải quyết vấn đề. 
 
