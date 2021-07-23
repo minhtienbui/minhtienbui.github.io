@@ -17,6 +17,9 @@ A master degree holder in MBA and degree holder in Computer Science, he is equip
 ### More Information
 
 Linkindle : https://linkedin.com/in/tienbm
+</br>
+My Resume : https://i.topcv.vn/buiminhtien?ref=2800226
+
 
 ### Contact me
 
