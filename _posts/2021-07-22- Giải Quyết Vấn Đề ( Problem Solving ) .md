@@ -7,6 +7,10 @@ Quan điểm Einstein đưa ra rất quan trọng: sự chuẩn bị có giá tr
 ![image](https://user-images.githubusercontent.com/52438010/126588680-ce657adc-2ed8-493f-b999-bf3765727982.png)
 
 <br/>
+Môi trường kinh doanh đang thay đổi nhanh chóng và công nghệ thông tin (CNTT) là cốt lõi của sự thay đổi đó. Những đổi mới trong công nghệ, cùng với các mô hình kinh doanh hoàn toàn mới, là một phần của sự thay đổi nhanh chóng đang buộc các chuyên gia quản lý và doanh nghiệp phải học hỏi, triển khai và áp dụng CNTT để tồn tại và lợi thế cạnh tranh. CNTT không còn chỉ là một chức năng của văn phòng nữa mà còn là một chức năng kinh doanh chiến lược.
+
+Sự thành công của CNTT phụ thuộc phần lớn vào khả năng giải quyết vấn đề, áp dụng và chấp nhận nó của tất cả các bên liên quan. Có rất nhiều ví dụ về các khoản đầu tư lớn vào CNTT bị lãng phí, do thiếu hiểu biết, áp dụng sai hoặc do ấp úng trong quá trình áp dụng.
+
 Một bài học từ các vận động viên chuyên nghiệp
 Bất kỳ vận động viên thi đấu nào cũng biết rõ ba giai đoạn này. Huấn luyện là sự chuẩn bị quan trọng cho bất kỳ cuộc thi nào, bao gồm một loạt các hoạt động bổ sung cho bất kỳ cuộc thi nào bao gồm. Sau đó đến sự kiện, cho dù có cạnh tranh chính thức hay không. Tiếp theo, về mặt quan trọng, sự phục hồi phải tuân theo. Kéo dài, nghỉ ngày, nạp lại chất dinh dưỡng và ngủ, là một trong số nhiều 'bí quyết' thành công của các chuyên gia.
 <br/>
