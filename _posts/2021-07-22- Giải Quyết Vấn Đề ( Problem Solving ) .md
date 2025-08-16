@@ -1,5 +1,4 @@
-## Quan điểm về giải quyết vấn đề 
-<br/>
+
 *** "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.” by Einstein 
 Tạm hiểu là nếu bạn có một giờ để giải quyết một vấn đề, bạn nên dành 55 phút để suy nghĩ về vấn đề đó và 5 phút để suy nghĩ về các giải pháp *** :smile: 
 
