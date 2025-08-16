@@ -1,11 +1,11 @@
 ## "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.” by Einstein
 <br/>
 *** Tạm hiểu là nếu bạn có một giờ để giải quyết một vấn đề, bạn nên dành 55 phút để suy nghĩ về vấn đề đó và 5 phút để suy nghĩ về các giải pháp *** :smile: 
-<br/>
-Quan điểm Einstein đưa ra rất quan trọng: sự chuẩn bị có giá trị rất lớn đối với việc giải quyết vấn đề. 
+
 
 ![image](https://user-images.githubusercontent.com/52438010/126588680-ce657adc-2ed8-493f-b999-bf3765727982.png)
-
+<br/>
+Quan điểm Einstein đưa ra rất quan trọng: sự chuẩn bị có giá trị rất lớn đối với việc giải quyết vấn đề. 
 <br/>
 Môi trường kinh doanh đang thay đổi nhanh chóng và công nghệ thông tin (CNTT) là cốt lõi của sự thay đổi đó. Những đổi mới trong công nghệ, cùng với các mô hình kinh doanh hoàn toàn mới, là một phần của sự thay đổi nhanh chóng đang buộc các chuyên gia quản lý và doanh nghiệp phải học hỏi, triển khai và áp dụng CNTT để tồn tại và lợi thế cạnh tranh. CNTT không còn chỉ là một chức năng của văn phòng nữa mà còn là một chức năng kinh doanh chiến lược.
 
